@@ -1,3 +1,1 @@
 # image-processing
-
-#          VERY SOON...
