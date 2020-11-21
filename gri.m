@@ -1,7 +1,7 @@
 function[yeni]=gri(img)
-[en,boy,katman]=size(img);%üç boyutlu img nin her boyutunu bir paramtreye atar 
+[en,boy,katman]=size(img);%ï¿½ï¿½ boyutlu img nin her boyutunu bir paramtreye atar 
 
-yeni=zeros(en,boy);% en boy deðeri kadar içi 0 lar ile dolu yeni adýnda bir dizi olþturur
+yeni=zeros(en,boy);% en boy deï¿½eri kadar iï¿½i 0 lar ile dolu yeni adï¿½nda bir dizi olï¿½turur
 
 for i=1:en
     for j=1:boy
